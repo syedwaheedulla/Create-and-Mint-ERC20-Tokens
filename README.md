@@ -50,21 +50,3 @@ The `MyToken` contract inherits from three OpenZeppelin contracts:
 
 The contract constructor initializes the token with the name "MyToken" and the symbol "MTK," and it mints 1000 tokens to the address that deploys the contract.
 
-**License:**
-
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/your-username/MyToken/blob/main/LICENSE) file for details.
-
-**Contributing:**
-
-Contributions to this project are welcome! If you find any issues or have suggestions for improvements, please feel free to create a pull request or open an issue.
-
-**Disclaimer:**
-
-This smart contract is provided as-is without any warranty. Use it at your own risk. The developers of this contract are not responsible for any loss or damage caused by using this code.
-
-**Contact:**
-
-For any inquiries or questions, you can reach us at [contact@mytoken.com](mailto:contact@mytoken.com).
-
----
-*Note: Customize the README file with relevant information such as your logo, contact details, license file, and other specific details related to your project. Also, update the installation and deployment instructions if required based on your project's setup.*
